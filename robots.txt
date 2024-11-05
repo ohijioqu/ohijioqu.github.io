@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ohijioqu.github.io/CmB/sitemap_index.txt
+Sitemap: https://ohijioqu.github.io/Wxb/sitemap_index.txt
+Sitemap: https://ohijioqu.github.io/aPh/sitemap_index.txt
+Sitemap: https://ohijioqu.github.io/gRd/sitemap_index.txt
